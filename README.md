@@ -40,3 +40,7 @@
   + [백준] 11050번: 이항 계수 1
   + 문제 링크: <https://www.acmicpc.net/problem/11050>
   + 블로그 링크: <https://seohyun0916.tistory.com/188>
++ Day08
+  + [백준] 2164번: 카드2
+  + 문제 링크: <https://www.acmicpc.net/problem/2164>
+  + 블로그 링크: <https://seohyun0916.tistory.com/190>
