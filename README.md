@@ -44,3 +44,7 @@
   + [백준] 2164번: 카드2
   + 문제 링크: <https://www.acmicpc.net/problem/2164>
   + 블로그 링크: <https://seohyun0916.tistory.com/190>
++ Day09
+  + [백준] 10773번: 제로
+  + 문제 링크: <https://www.acmicpc.net/problem/10773>
+  + 블로그 링크: <https://seohyun0916.tistory.com/192>
