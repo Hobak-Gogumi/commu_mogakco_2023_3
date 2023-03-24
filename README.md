@@ -48,3 +48,7 @@
   + [백준] 10773번: 제로
   + 문제 링크: <https://www.acmicpc.net/problem/10773>
   + 블로그 링크: <https://seohyun0916.tistory.com/192>
++ Day10
+  + [백준] 17219번: 비밀번호 찾기
+  + 문제 링크: <https://www.acmicpc.net/problem/17219>
+  + 블로그 링크: <https://seohyun0916.tistory.com/193>
