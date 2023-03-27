@@ -52,3 +52,8 @@
   + [백준] 17219번: 비밀번호 찾기
   + 문제 링크: <https://www.acmicpc.net/problem/17219>
   + 블로그 링크: <https://seohyun0916.tistory.com/193>
+### 3주차
++ Day06
+  + [백준] 2644번: 촌수계산
+  + 문제 링크: <https://www.acmicpc.net/problem/2644>
+  + 블로그 링크: <https://seohyun0916.tistory.com/195>
