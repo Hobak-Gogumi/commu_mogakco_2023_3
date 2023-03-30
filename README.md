@@ -65,3 +65,7 @@
   + [백준] 24444번: 알고리즘 수업 - 너비 우선 탐색 1
   + 문제 링크: <https://www.acmicpc.net/problem/24444>
   + 블로그 링크: <https://seohyun0916.tistory.com/197>
++ Day14
+  + [백준] 24480번: 알고리즘 수업 - 깊이 우선 탐색 2
+  + 문제 링크: <https://www.acmicpc.net/problem/24480>
+  + 블로그 링크: <https://seohyun0916.tistory.com/198>
